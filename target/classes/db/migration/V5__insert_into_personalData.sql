@@ -1,0 +1,1 @@
+INSERT INTO personal_data(full_name, phone_number, user_id) VALUES ('Is Nurmukhanov', '87000240501', 1)
